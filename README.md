@@ -9,3 +9,4 @@
 - 📫 How to reach me: jahangeer04111@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:The orginal name for search engine Google was Backrub
+<img src"https://github-readme-stats.vercel.app/api?username=jahangeer0411&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
