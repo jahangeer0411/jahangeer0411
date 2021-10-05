@@ -8,4 +8,4 @@
 - 💬 Ask me about Data Visulalization,Python Queries
 - 📫 How to reach me: jahangeer04111@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact:The orginal name for search engine Google was Backru
+- ⚡ Fun fact:The orginal name for search engine Google was Backrub
