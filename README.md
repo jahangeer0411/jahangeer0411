@@ -1,11 +1,11 @@
 ### hola, i am jahangeer 👋
 
 
-- 🔭 I’m currently working on Devops Engineer
+- 🔭 I’m currently looking for position in a Devops Engineer
 - 👯 I’m looking to collaborate on You Tube
-- 🤔 I’m looking for help with Learning Advance Python
-- 💬 Ask me about Data Visulalization,Python Queries
-- 📫 How to reach me: jahangeer04111@gmail.com
+- 🤔 I’m looking for help with Learning Advance Devops Technologies
+- 💬 Ask me about AWS Cloud, CI/CD, Ansible, Docker, Terraform 
+- 📫 How to reach me: jdudekula001@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact:The orginal name for search engine Google was Backrub
 
